@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first GIT repo.
+This is my first GIT repository.
 <br>
 Author - Aakash Kakkar
